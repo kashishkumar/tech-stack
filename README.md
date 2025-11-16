@@ -106,9 +106,10 @@ embeddings library:
 Agents:
 - crewai ✔️
 - langgraph ✔️
+- google adk
 
 No code agents
--n89
+-n8n
 
 AgentOps
 - composio
@@ -118,9 +119,10 @@ RAG:
 - llamaindex
 
 Evaluation:
-- ragas ✔️
+- ragas ️
 - giskard 
-- phoenix 
+- phoenix
+- deep eval ✔
 
 Deduplication:
 - SemHash
